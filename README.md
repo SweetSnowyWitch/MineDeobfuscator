@@ -26,4 +26,5 @@ Change `mappingProvider` type in `fabric/src/main/java/dev/booky/stackdeobf/Main
 ```
 
 Select `Main.java` and run current file. Paste the path to your mod directory in console (it may be `\MDG\result\merged_mdk\src` if you just decompiled your mod) and wait. 
+
 (If presented) Change in accessWidener 1 line to `accessWidener	v2	named`. 
