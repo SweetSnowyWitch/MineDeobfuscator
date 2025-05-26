@@ -4,19 +4,20 @@
 
 ## Getting Started
 
-Change mapping type in `fabric/run/config/stackdeobf.json` to `"yarn"` or `"quilt"`
-
-```shell
-"mapping-type": "quilt"
-```
-
-Change minecraft version in `gradle/libs.versions.toml` to yours
+Delete `fabric/run` folder and change minecraft version in `gradle/libs.versions.toml` to yours
 
 ```shell
 minecraft = "1.19.2"
 ```
 
 Run Minecraft Client
+
+
+Change mapping type in `fabric/run/config/stackdeobf.json` to `"yarn"` or `"quilt"`
+
+```shell
+"mapping-type": "quilt"
+```
 
 ## Using Script
 
